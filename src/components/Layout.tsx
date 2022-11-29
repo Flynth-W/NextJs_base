@@ -1,4 +1,5 @@
 import { ThemeChanger } from "./Themes/button"
+import Fth from "./ff"
 export default function Layout(props:any){
   return (
   <div>
@@ -6,6 +7,7 @@ export default function Layout(props:any){
         {props.children}
     </main>
     <ThemeChanger/>
+    < Fth/ >
   </div>
       )
 }
