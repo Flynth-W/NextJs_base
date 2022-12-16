@@ -1,0 +1,12 @@
+=== NextJs Base
+
+==== Getting Started
+
+* Install Dependencies
+++++
+  npm init -y
+  npm install next  react react-dom react-hook-form 
+++++
+
+
+
